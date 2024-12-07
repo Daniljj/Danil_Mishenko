@@ -38,4 +38,6 @@
 - Основы Python часть 2
 - Python-фреймворк Django
 - Постоянно стремлюсь к обучению и развитию в области веб-разработки, готов внести свой вклад в работу команды, создавая качественные и эффективные решения.
-![mOdfUtW0hr0UhFIJDXhnSXz9SC8r54YZ](https://github.com/user-attachments/assets/6a750508-b947-47a3-86ff-d616f9a6d50f)
+## ![mOdfUtW0hr0UhFIJDXhnSXz9SC8r54YZ](https://github.com/user-attachments/assets/6a750508-b947-47a3-86ff-d616f9a6d50f)
+## ![LpGNlWrJwlX6d00bzTFu2bsqnfMZY2SE](https://github.com/user-attachments/assets/5b279c26-7487-4c99-a5d4-458fcab03231)
+
